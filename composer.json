@@ -33,7 +33,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "laravelcollective/html": "~5.0.0||~5.2.0",
+        "laravelcollective/html": "dev-master",
         "efficiently/jquery-laravel": "~2.0.0"
     },
     "require-dev": {
